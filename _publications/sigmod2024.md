@@ -9,7 +9,7 @@ paperurl: 'https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/PACE_double_column.pdf
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
-Category: (Full Research Paper, CCF-A)
+Full Research Paper, CCF-A. 
 Authors: **Jintao Zhang**, Guoliang Li, Chao Zhang, Chengliang Chai
 
 [Download paper here](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/PACE_double_column.pdf)
