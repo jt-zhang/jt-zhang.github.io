@@ -14,13 +14,16 @@ redirect_from:
 
 <!-- https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/jt-zhang/picgozjt/raw/main/docs/CV-Jintao-Zhang.pdf -->
 
----
-## Education Info
-Ph.D.:<span style="color: white;">..............</span>Sep. 2024 - Now,<span style="color: white;">.......</span>Dept. of CS&T, Tsinghua University, Beijing, China  
-Master:<span style="color: white;">............</span>Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China  
-Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University,<span style="color: white;">........</span>Xian, China
 
----
+<!-- ## Education Info
+**Ph.D.:**<span style="color: white;">..............</span>Sep. 2024 - Now,<span style="color: white;">.......</span>Dept. of CS&T, Tsinghua University, Beijing, China  
+**Master:**<span style="color: white;">............</span>Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China  
+**Undergraduate:** Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University,<span style="color: white;">........</span>Xian, China -->
+
+## About Me
+I am currently a fourth-year PhD student in the Department of Computer Science at Tsinghua University, with my main research focus on efficient training and inference of large models.
+
+
 ## Supervisor
 Ph.D. program:<span style="color: white;">..</span><span style="color: white;">.</span>Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html) (陈键飞) and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (朱军)  
 Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html) (李国良)
@@ -30,14 +33,14 @@ Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publ
 <!-- ## Biography
 - Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
 - Sep 2021 -   Now    : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li. -->
----
+
 ## Research Interest
 <!-- My past research focused on the intersection of AI and databases, particularly on query optimization. -->
 
 My research interests focus on Efficient Machine Learning, specifically on accelerating model training and inference. Target models include large language models (LLMs), vision-language models (VLMs), and image / video generation models.
 <!-- - AI4DB: Database for Artificial Intelligence. -->
 <!-- - DB4AI: Artificial intelligence for Database. -->
----
+
 ## Awards
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
