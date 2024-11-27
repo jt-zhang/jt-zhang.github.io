@@ -44,7 +44,7 @@ author_profile: true
 **SageRAG: A Framework of Precise Retrieval for RAG**  
 **Jintao Zhang**, Guoliang Li, Jinyang Su  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICDE 2025</span> <span style="font-size:13px;">(CCF-A)</span>  
-| [paper](https://arxiv.org/abs/2410.02367) |
+| [paper]() |
 | [code]() |
 
 ---
