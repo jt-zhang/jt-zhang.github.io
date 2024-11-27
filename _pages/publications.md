@@ -36,35 +36,35 @@ author_profile: true
 ---
 **PACE: Poisoning Attacks on Learned Cardinality Estimation**  
 **Jintao Zhang**, Guoliang Li, Chao Zhang, Chengliang Chai  
-<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">SIGMOD 2024</span> (CCF-A)   
+<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">SIGMOD 2024</span> <span style="font-size:12px;">(CCF-A)</span>   
 | [paper](https://arxiv.org/pdf/2409.15990) |
 | [code]() |
 
 ---
 **SageRAG: A Framework of Precise Retrieval for RAG**  
 **Jintao Zhang**, Guoliang Li, Jinyang Su  
-<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">ICDE 2025</span> (CCF-A)  
+<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">ICDE 2025</span> <span style="font-size:12px;">(CCF-A)</span>  
 | [paper](https://arxiv.org/abs/2410.02367) |
 | [code]() |
 
 ---
 **AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation**  
 **Jintao Zhang**, Chao Zhang, Guoliang Li, Chengliang Chai  
-<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">ICDE 2023</span> (CCF-A)  
+<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">ICDE 2023</span> <span style="font-size:12px;">(CCF-A)</span>  
 | [paper](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) |
 | [code]() |
 
 ---
 **Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation**  
 Ji Sun, **Jintao Zhang**$^*$, Zhaoyan Sun, Nan Tang, Guoliang Li  
-<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">VLDB 2022</span> (CCF-A)  
+<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">VLDB 2022</span> <span style="font-size:12px;">(CCF-A)</span>  
 | [paper](https://vldb.org/pvldb/vol15/p85-li.pdf) |
 | [code](https://github.com/jt-zhang/CardinalityEstimationTestbed) |
 
 ---
 **HTAP Databases: A Survey**  
 Chao Zhang, Guoliang Li, **Jintao Zhang**, Xinning Zhang, Jianhua Feng  
-<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">TKDE</span> (CCF-A)  
+<span style="color:green; font-style:italic; font-size:15px; font-weight:bold;">TKDE</span> <span style="font-size:12px;">(CCF-A)</span>  
 | [paper](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/HTAP_Databases_A_Survey.pdf) |
 | [code]() |
 
