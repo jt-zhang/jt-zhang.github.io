@@ -25,8 +25,8 @@ I am currently a fourth-year PhD student in the Department of Computer Science a
 
 
 ## Supervisor
-Ph.D. program:<span style="color: white;">..</span><span style="color: white;">.</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
-Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html)
+Ph.D.:<span style="color: white;">..</span><span style="color: white;">.</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
+Master: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html)
 
 
 
@@ -37,7 +37,8 @@ Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publ
 ## Research Interest
 <!-- My past research focused on the intersection of AI and databases, particularly on query optimization. -->
 
-My research interests focus on Efficient Machine Learning, specifically on accelerating model training and inference. Target models include large language models (LLMs), vision-language models (VLMs), and image / video generation models.
+My research interests focus on Efficient Machine Learning System, specifically on accelerating models' training and inference.
+ <!-- Target models include large language models (LLMs), vision-language models (VLMs), and image / video generation models. -->
 <!-- - AI4DB: Database for Artificial Intelligence. -->
 <!-- - DB4AI: Artificial intelligence for Database. -->
 
@@ -46,7 +47,7 @@ My research interests focus on Efficient Machine Learning, specifically on accel
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
 - May. 2023: Siebel Scholars Scholarship 
-- Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
+- Dec. 2020: President's Scholarship of Xidian University (top 0.02%)
 - Dec. 2020: National Scholarship
 - Dec. 2019: National Scholarship
 <!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest -->
