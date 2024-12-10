@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
+---
 <span style="font-size:15px;">($*$ denotes equal contributions)  </span>  
 ---
 **SageAttention2 Technical Report: Accurate 4-Bit Attention for Plug-and-play Inference Acceleration**  
