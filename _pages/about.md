@@ -21,7 +21,7 @@ redirect_from:
 **Undergraduate:** Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University,<span style="color: white;">........</span>Xian, China -->
 
 ## About Me
-I am currently a fourth-year PhD student in the Department of Computer Science at Tsinghua University, with my main research focus on efficient training and inference of large models.
+I am currently a first-year PhD student in the Department of Computer Science at Tsinghua University, with my main research focus on efficient training and inference of large models.
 
 
 ## Supervisor

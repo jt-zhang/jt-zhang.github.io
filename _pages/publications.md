@@ -17,8 +17,7 @@ author_profile: true
 
 
 ---
-($*$ denotes equal contributions)  
-
+<span style="font-size:13.6px;">($*$ denotes equal contributions)  </span>   
 ---
 **SageAttention2 Technical Report: Accurate 4-Bit Attention for Plug-and-play Inference Acceleration**  
 **Jintao Zhang**, Haofeng Huang, Pengle Zhang, Jia Wei, Jun Zhu, Jianfei Chen  
