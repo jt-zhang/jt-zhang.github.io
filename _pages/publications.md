@@ -18,7 +18,7 @@ author_profile: true
 <span style="font-size:15px;">($*$ denotes equal contributions)  </span>
   
 ---
-**SageAttention2 Technical Report: Accurate 4-Bit Attention for Plug-and-play Inference Acceleration**  
+**SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization**  
 **Jintao Zhang**, Haofeng Huang, Pengle Zhang, Jia Wei, Jun Zhu, Jianfei Chen  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv</span>  
 | [paper](https://arxiv.org/abs/2411.10958)
