@@ -27,7 +27,7 @@ author_profile: true
 ---
 **SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration**  
 **Jintao Zhang**, Jia Wei, Haofeng Huang, Pengle Zhang, Jun Zhu, Jianfei Chen  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICLR 2025</span>   
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICLR 2025</span> <span style="font-size:13px;">(TH-CPL-A, Research track, Full paper)</span>   
 | [paper](https://arxiv.org/abs/2410.02367) |
 | [code](https://github.com/thu-ml/SageAttention) |
 
