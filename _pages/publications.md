@@ -27,7 +27,7 @@ author_profile: true
 ---
 **SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration**  
 **Jintao Zhang**, Jia Wei, Haofeng Huang, Pengle Zhang, Jun Zhu, Jianfei Chen  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv</span>   
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICLR 2025</span>   
 | [paper](https://arxiv.org/abs/2410.02367) |
 | [code](https://github.com/thu-ml/SageAttention) |
 
@@ -54,7 +54,7 @@ author_profile: true
 
 ---
 **Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation**  
-Ji Sun, **Jintao Zhang**$^*$, Zhaoyan Sun, Nan Tang, Guoliang Li  
+Ji Sun$^*$, **Jintao Zhang**$^*$, Zhaoyan Sun, Nan Tang, Guoliang Li  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">VLDB 2022</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://vldb.org/pvldb/vol15/p85-li.pdf) |
 | [code](https://github.com/jt-zhang/CardinalityEstimationTestbed) |
