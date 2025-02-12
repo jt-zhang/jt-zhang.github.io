@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<span style="font-size:15px;">($*$ denotes equal contributions)  </span>
+<span style="font-size:15px;">(* denotes equal contributions)  </span>
   
 ---
 **SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization**  
@@ -54,7 +54,7 @@ author_profile: true
 
 ---
 **Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation**  
-Ji Sun$*$, **Jintao Zhang**$*$, Zhaoyan Sun, Nan Tang, Guoliang Li  
+Ji Sun*, **Jintao Zhang***, Zhaoyan Sun, Nan Tang, Guoliang Li  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">VLDB 2022</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://vldb.org/pvldb/vol15/p85-li.pdf) |
 | [code](https://github.com/jt-zhang/CardinalityEstimationTestbed) |
