@@ -18,6 +18,13 @@ author_profile: true
 <span style="font-size:15px;">(* denotes equal contributions)  </span>
   
 ---
+**SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**  
+**Jintao Zhang**, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen 
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv</span>  
+| [paper](https://github.com/thu-ml/SpargeAttn)
+| [code](https://github.com/thu-ml/SpargeAttn) |
+
+---
 **SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization**  
 **Jintao Zhang**, Haofeng Huang, Pengle Zhang, Jia Wei, Jun Zhu, Jianfei Chen  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv</span>  
