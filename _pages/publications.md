@@ -39,17 +39,17 @@ author_profile: true
 | [code](https://github.com/thu-ml/SageAttention) |
 
 ---
+**SAGE: A Framework of Precise Retrieval for RAG**  
+**Jintao Zhang**, Guoliang Li, Jinyang Su  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICDE 2025</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>  
+| [paper](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/ICDE25-SAGE.pdf)
+| [code]() |
+
+---
 **PACE: Poisoning Attacks on Learned Cardinality Estimation**  
 **Jintao Zhang**, Guoliang Li, Chao Zhang, Chengliang Chai  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">SIGMOD 2024</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>   
 | [paper](https://arxiv.org/pdf/2409.15990)
-| [code]() |
-
----
-**SAGE: A Framework of Precise Retrieval for RAG**  
-**Jintao Zhang**, Guoliang Li, Jinyang Su  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICDE 2025</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>  
-| [paper]()
 | [code]() |
 
 ---
