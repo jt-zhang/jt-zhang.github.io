@@ -15,19 +15,19 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<span style="font-size:15px;">(* denotes equal contributions)  </span>
+<span style="font-size:15px;">(**\*** denotes equal contributions, **#** denotes the corresponding author.)  </span>
   
 ---
 **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**  
 **Jintao Zhang**, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span>  
 | [paper](https://arxiv.org/abs/2502.18137)
 | [code](https://github.com/thu-ml/SpargeAttn) |
 
 ---
 **SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization**  
 **Jintao Zhang**, Haofeng Huang, Pengle Zhang, Jia Wei, Jun Zhu, Jianfei Chen  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2024</span>  
 | [paper](https://arxiv.org/abs/2411.10958)
 | [code](https://github.com/thu-ml/SageAttention) |
 
@@ -61,10 +61,31 @@ author_profile: true
 
 ---
 **Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation**  
-Ji Sun*, **Jintao Zhang***, Zhaoyan Sun, Nan Tang, Guoliang Li  
+Ji Sun\*, **Jintao Zhang\***, Zhaoyan Sun, Nan Tang, Guoliang Li  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">VLDB 2022</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://vldb.org/pvldb/vol15/p85-li.pdf)
 | [code](https://github.com/jt-zhang/CardinalityEstimationTestbed) |
+
+---
+**Accurate INT8 Training Through Dynamic Block-Level Fallback**  
+Pengle Zhang, Jia Wei, **Jintao Zhang**, Jun Zhu, Jianfei Chen  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span> <span style="font-size:13px;"> </span>  
+| [paper](https://arxiv.org/pdf/2503.08040)
+| [code]() |
+
+---
+**Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**  
+Haocheng Xi, Shuo Yang, Yilong Zhao, Chenfeng Xu, Muyang Li, Xiuyu Li, Yujun Lin, Han Cai, **Jintao Zhang**, Dacheng Li, Jianfei Chen, Ion Stoica, Kurt Keutzer, Song Han  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span> <span style="font-size:13px;"> </span>  
+| [paper](https://arxiv.org/pdf/2502.01776)
+| [code](https://github.com/svg-project/Sparse-VideoGen) |
+
+---
+**Identifying Sensitive Weights via Post-quantization Integral**  
+Yuezhou Hu, Weiyu Huang, Zichen Liang, Chang Chen, **Jintao Zhang**, Jun Zhu, Jianfei Chen  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span> <span style="font-size:13px;"> </span>  
+| [paper](https://arxiv.org/pdf/2503.01901)
+| [code]() |
 
 ---
 **HTAP Databases: A Survey**  
