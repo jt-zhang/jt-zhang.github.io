@@ -20,14 +20,14 @@ author_profile: true
 ---
 **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**  
 **Jintao Zhang**, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span>  
 | [paper](https://arxiv.org/abs/2502.18137)
 | [code](https://github.com/thu-ml/SpargeAttn) |
 
 ---
 **SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization**  
 **Jintao Zhang**, Haofeng Huang, Pengle Zhang, Jia Wei, Jun Zhu, Jianfei Chen  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2024</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span>  
 | [paper](https://arxiv.org/abs/2411.10958)
 | [code](https://github.com/thu-ml/SageAttention) |
 
@@ -76,7 +76,7 @@ Pengle Zhang, Jia Wei, **Jintao Zhang**, Jun Zhu, Jianfei Chen
 ---
 **Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**  
 Haocheng Xi, Shuo Yang, Yilong Zhao, Chenfeng Xu, Muyang Li, Xiuyu Li, Yujun Lin, Han Cai, **Jintao Zhang**, Dacheng Li, Jianfei Chen, Ion Stoica, Kurt Keutzer, Song Han  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span> <span style="font-size:13px;"> </span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span> <span style="font-size:13px;"> </span>  
 | [paper](https://arxiv.org/pdf/2502.01776)
 | [code](https://github.com/svg-project/Sparse-VideoGen) |
 
