@@ -88,7 +88,7 @@ My research interests focus on Efficient Machine Learning System, specifically o
 
 ---
 **Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation**  
-Ji Sun\*, **Jintao Zhang\*** (equal contribution), Zhaoyan Sun, Nan Tang, Guoliang Li  
+Ji Sun\*, **Jintao Zhang\***(equal contribution), Zhaoyan Sun, Nan Tang, Guoliang Li  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">VLDB 2022</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://vldb.org/pvldb/vol15/p85-li.pdf)
 | [code](https://github.com/jt-zhang/CardinalityEstimationTestbed) |
@@ -120,9 +120,6 @@ Chao Zhang, Guoliang Li, **Jintao Zhang**, Xinning Zhang, Jianhua Feng
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">TKDE</span> <span style="font-size:13px;">(CCF-A, Journal)</span>  
 | [paper](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/HTAP_Databases_A_Survey.pdf)
 | [code]() |
-
-
----
 
 
 
