@@ -45,9 +45,6 @@ My research interests focus on Efficient Machine Learning System, specifically o
 
 ## Selected Publications
 
-<span style="font-size:15px;">(**\*** denotes equal contributions, **#** denotes the corresponding author.)  </span>
-  
----
 **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**  
 **Jintao Zhang**, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span>  
@@ -91,7 +88,7 @@ My research interests focus on Efficient Machine Learning System, specifically o
 
 ---
 **Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation**  
-Ji Sun\*, **Jintao Zhang\***, Zhaoyan Sun, Nan Tang, Guoliang Li  
+Ji Sun\*, **Jintao Zhang\*** (equal contribution), Zhaoyan Sun, Nan Tang, Guoliang Li  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">VLDB 2022</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://vldb.org/pvldb/vol15/p85-li.pdf)
 | [code](https://github.com/jt-zhang/CardinalityEstimationTestbed) |
