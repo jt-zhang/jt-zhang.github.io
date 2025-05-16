@@ -18,6 +18,13 @@ author_profile: true
 <span style="font-size:15px;">(**\*** denotes equal contributions, **#** denotes the corresponding author.)  </span>
   
 ---
+**SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training**  
+**Jintao Zhang**, Jia Wei, Pengle Zhang, Xiaoming Xu, Haofeng Huang, Haoxu Wang, Kai Jiang, Jun Zhu, Jianfei Chen  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span>  
+| [paper]()
+| [code](https://github.com/thu-ml/SageAttention) |
+
+---
 **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**  
 **Jintao Zhang**, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span>  
