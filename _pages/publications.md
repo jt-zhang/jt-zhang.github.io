@@ -27,14 +27,14 @@ author_profile: true
 ---
 **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**  
 **Jintao Zhang**, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://arxiv.org/abs/2502.18137)
 | [code](https://github.com/thu-ml/SpargeAttn) |
 
 ---
 **SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization**  
 **Jintao Zhang**, Haofeng Huang, Pengle Zhang, Jia Wei, Jun Zhu, Jianfei Chen  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://arxiv.org/abs/2411.10958)
 | [code](https://github.com/thu-ml/SageAttention) |
 
