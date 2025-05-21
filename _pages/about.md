@@ -109,7 +109,7 @@ Pengle Zhang, Jia Wei, **Jintao Zhang**, Jun Zhu, Jianfei Chen
 ---
 **Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**  
 Haocheng Xi, Shuo Yang, Yilong Zhao, Chenfeng Xu, Muyang Li, Xiuyu Li, Yujun Lin, Han Cai, **Jintao Zhang**, Dacheng Li, Jianfei Chen, Ion Stoica, Kurt Keutzer, Song Han  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span> <span style="font-size:13px;"> </span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span> <span style="font-size:13px;">(CCF-A, Research track, Full paper)</span>   
 | [paper](https://arxiv.org/pdf/2502.01776)
 | [code](https://github.com/svg-project/Sparse-VideoGen) |
 
