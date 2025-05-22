@@ -68,7 +68,7 @@ author_profile: true
 
 ---
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation</span>  
-<span style="font-family: 'Cambria', sans-serif;">Ji Sun\*, <strong>Jintao Zhang\*</strong>, Zhaoyan Sun, Nan Tang, Guoliang Li</span>  
+<span style="font-family: 'Cambria', sans-serif;">Ji Sun\*, <strong><u>Jintao Zhang</u>\*</strong>, Zhaoyan Sun, Nan Tang, Guoliang Li</span>  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">VLDB 2022</span> <span style="font-size:14px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://vldb.org/pvldb/vol15/p85-li.pdf)
 | [code](https://github.com/jt-zhang/CardinalityEstimationTestbed) |
