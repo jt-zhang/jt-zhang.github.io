@@ -21,7 +21,10 @@ redirect_from:
 **Undergraduate:** Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University,<span style="color: white;">........</span>Xian, China -->
 
 ## About Me
-<span style="font-family: 'Segoe UI', sans-serif;">I am currently a first-year PhD student in the Department of Computer Science at Tsinghua University, with my main research focus on efficient training and inference of large models.</span>
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
+I am currently a first-year PhD student in the Department of Computer Science at Tsinghua University, with my main research focus on efficient training and inference of large models.
+</span>
+
 
 
 ## Supervisor
