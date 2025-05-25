@@ -148,10 +148,10 @@ I am currently a first-year PhD student in the Department of Computer Science at
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
-May. 2023: Siebel Scholars Scholarship (Tsinghua's highest master's award)  
-Dec. 2020: President's Scholarship of Xidian University (Top 0.02%)  
-Dec. 2020: National Scholarship  
-Dec. 2019: National Scholarship
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">May. 2023: Siebel Scholars Scholarship</span>    <i>(Tsinghua's highest master's award)</i>  
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Dec. 2020: President's Scholarship of Xidian University</span>    <i>(Top 0.02%)</i>  
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Dec. 2020: National Scholarship</span>     
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Dec. 2019: National Scholarship</span>   
 <!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest -->
 <!-- - Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling -->
 
