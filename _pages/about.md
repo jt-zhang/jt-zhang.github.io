@@ -28,7 +28,7 @@ I am currently a first-year PhD student in the Department of Computer Science at
 
 
 ## Supervisor
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Ph.D.:</span><span style="color: white;">--</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Ph.D.:</span><span style="color: white;">...</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Master:</span> Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html)
 
 
