@@ -28,7 +28,7 @@ I am currently a first-year PhD student in the Department of Computer Science at
 
 
 ## Supervisor
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Ph.D.:</span><span style="color: white;">...</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Ph.D.:</span><span style="color: white;">..</span><span style="color: white;">.</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Master:</span> Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html)
 
 
@@ -153,7 +153,7 @@ I am currently a first-year PhD student in the Department of Computer Science at
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Dec. 2020: President's Scholarship of Xidian University</span>    <i>(Top 0.02%)</i>  
 
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Dec. 2020: National Scholarship</span>    
- 
+
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Dec. 2019: National Scholarship</span>   
 <!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest -->
 <!-- - Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling -->
