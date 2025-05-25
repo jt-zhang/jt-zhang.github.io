@@ -28,8 +28,8 @@ I am currently a first-year PhD student in the Department of Computer Science at
 
 
 ## Supervisor
-Ph.D.:<span style="color: white;">..</span><span style="color: white;">.</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
-Master: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html)
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Ph.D.:</span><span style="color: white;">--</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Master:</span> Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html)
 
 
 
@@ -40,7 +40,7 @@ Master: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications
 ## Research Interest
 <!-- My past research focused on the intersection of AI and databases, particularly on query optimization. -->
 
-My research interests focus on Efficient Machine Learning System, specifically on accelerating models' training and inference.
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">My research interests focus on Efficient Machine Learning System, specifically on accelerating models' training and inference.</span>
  <!-- Target models include large language models (LLMs), vision-language models (VLMs), and image / video generation models. -->
 <!-- - AI4DB: Database for Artificial Intelligence. -->
 <!-- - DB4AI: Artificial intelligence for Database. -->
