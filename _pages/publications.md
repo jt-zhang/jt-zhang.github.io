@@ -25,6 +25,13 @@ author_profile: true
 | [code](https://github.com/thu-ml/SageAttention) |
 
 ---
+<span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention2++: A More Efficient Implementation of SageAttention2</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Xiaoming Xu, Jia Wei, Haofeng Huang, Pengle Zhang, Chendong Xiang, Jun Zhu, Jianfei Chen</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span>  
+| [paper](https://arxiv.org/abs/2505.21136)
+| [code](https://github.com/thu-ml/SageAttention) |
+
+---
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen</span>  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span> <span style="font-size:14px;">(CCF-A, Research track, Full paper)</span>  
