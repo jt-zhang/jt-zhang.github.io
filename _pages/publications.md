@@ -32,7 +32,7 @@ author_profile: true
 | [code](https://github.com/thu-ml/SageAttention) |
 
 ---
-<span style="font-family: 'Helvetica', serif; font-weight: bold;">SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference</span>  
+<span style="font-family: 'Helvetica', serif; font-weight: bold;">SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen</span>  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span> <span style="font-size:14px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://arxiv.org/abs/2502.18137)
@@ -86,6 +86,12 @@ author_profile: true
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span> <span style="font-size:13.5px;">(Full Paper)</span>  
 | [paper](https://arxiv.org/pdf/2503.08040)
 | [code]() |
+
+---
+<span style="font-family: 'Helvetica', serif; font-weight: bold;">Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation</span>  
+<span style="font-family: 'Cambria', serif;">Shuo Yang, Haocheng Xi, Yilong Zhao, Muyang Li, <strong><u>Jintao Zhang</u></strong>, Han Cai, Yujun Lin, Xiuyu Li, Chenfeng Xu, Kelly Peng, Jianfei Chen, Song Han, Kurt Keutzer, Ion Stoica</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span> <span style="font-size:13.5px;">(Full Paper)</span>  
+| [paper](https://arxiv.org/abs/2505.18875)  | [code](https://github.com/svg-project/Sparse-VideoGen) |
 
 ---
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity</span>  
