@@ -22,14 +22,14 @@ redirect_from:
 
 ## About Me
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
-I am currently a first-year PhD student in the Department of Computer Science at Tsinghua University, with my main research focus on efficient training and inference of large models.
+I am currently a first-year PhD student in the Department of Computer Science at Tsinghua University.
 </span>
+<!-- , with my main research focus on efficient training and inference of large models -->
 
 
-
-## Supervisor
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Ph.D.:</span><span style="color: white;">..</span><span style="color: white;">.</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Master:</span> Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html)
+## Advisors
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Ph.D. Advisors:</span><span style="color: white;">.</span><span style="color: white;">..</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Master Advisor:</span> Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html)
 
 
 
@@ -37,10 +37,8 @@ I am currently a first-year PhD student in the Department of Computer Science at
 - Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
 - Sep 2021 -   Now    : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li. -->
 
-## Research Interest
-<!-- My past research focused on the intersection of AI and databases, particularly on query optimization. -->
-
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">My research interests focus on Efficient Machine Learning System, specifically on accelerating models' training and inference.</span>
+## Research Interests
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">My research focuses on <strong>(1)</strong> <u>Efficient Machine Learning System</u>, specializing in accelerating model training and inference; <strong>(2)</strong> <u>Data Management</u>, specializing in query optimization and high-quality data acquisition.</span>
  <!-- Target models include large language models (LLMs), vision-language models (VLMs), and image / video generation models. -->
 <!-- - AI4DB: Database for Artificial Intelligence. -->
 <!-- - DB4AI: Artificial intelligence for Database. -->
@@ -132,24 +130,10 @@ I am currently a first-year PhD student in the Department of Computer Science at
 | [code](https://github.com/svg-project/Sparse-VideoGen) |
 
 ---
-<span style="font-family: 'Helvetica', serif; font-weight: bold;">Identifying Sensitive Weights via Post-quantization Integral</span>  
-<span style="font-family: 'Cambria', serif;">Yuezhou Hu, Weiyu Huang, Zichen Liang, Chang Chen, <strong><u>Jintao Zhang</u></strong>, Jun Zhu, Jianfei Chen</span>  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span> <span style="font-size:13.5px;">(Full Paper)</span>  
-| [paper](https://arxiv.org/pdf/2503.01901)
-| [code]() |
-
----
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">HTAP Databases: A Survey</span>  
 <span style="font-family: 'Cambria', serif;">Chao Zhang, Guoliang Li, <strong><u>Jintao Zhang</u></strong>, Xinning Zhang, Jianhua Feng</span>  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">TKDE</span> <span style="font-size:14px;">(CCF-A, Journal)</span>  
 | [paper](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/HTAP_Databases_A_Survey.pdf)
-| [code]() |
-
----
-<span style="font-family: 'Helvetica', serif; font-weight: bold;">Survey of Key Techniques of HTAP Databases.</span>  
-<span style="font-family: 'Cambria', serif;">Chao Zhang, Guoliang Li, Jianhua Feng, <strong><u>Jintao Zhang</u></strong></span>  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Journal of Software</span>   
-| [paper](http://www.jos.org.cn/josen/article/pdf/6713)
 | [code]() |
 
 ---
