@@ -22,7 +22,7 @@ redirect_from:
 
 ## About Me
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
-I am currently a first-year PhD student in the Department of Computer Science at Tsinghua University. Please feel free to call me Qifan (张棋番), my preferred nickname.</span>
+I am currently a first-year PhD student in the Department of Computer Science at Tsinghua University. Feel free to call me Qifan Zhang (张棋番), my preferred nickname.</span>
 <!-- , with my main research focus on efficient training and inference of large models -->
 
 
