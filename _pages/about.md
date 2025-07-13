@@ -111,7 +111,7 @@ I am currently a first-year PhD student in the Department of Computer Science at
 ---
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">A Lightweight Learned Cardinality Estimation Model</span>  
 <span style="font-family: 'Cambria', serif;">Yaoyu Zhu, <strong><u>Jintao Zhang#</u></strong>, Guoliang Li#, Jianhua Feng</span>  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">TKDE</span> <span style="font-size:14px;">(CCF-A, Research track, Full paper)</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">TKDE 2025</span> <span style="font-size:14px;">(CCF-A, Research track, Full paper)</span>  
 | [paper]()
 | [code]() |
 
