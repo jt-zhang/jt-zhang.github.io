@@ -47,7 +47,7 @@ I am currently a first-year PhD student in the Department of Computer Science at
 
 
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Jia Wei, Pengle Zhang, Xiaoming Xu, Haofeng Huang, Haoxu Wang, Kai Jiang, Jun Zhu, Jianfei Chen</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang\*</u></strong>, Jia Wei\*, Pengle Zhang, Xiaoming Xu, Haofeng Huang, Haoxu Wang, Kai Jiang, Jun Zhu, Jianfei Chen</span>  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">Arxiv 2025</span> <span style="font-size:13.5px;">(Full Paper)</span>  
 | [paper](https://arxiv.org/abs/2505.11594)
 | [code](https://github.com/thu-ml/SageAttention) |
@@ -68,7 +68,7 @@ I am currently a first-year PhD student in the Department of Computer Science at
 
 ---
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Haofeng Huang, Pengle Zhang, Jia Wei, Jun Zhu, Jianfei Chen</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang\*</u></strong>, Haofeng Huang\*, Pengle Zhang, Jia Wei, Jun Zhu, Jianfei Chen</span>  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">ICML 2025</span> <span style="font-size:14px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://arxiv.org/abs/2411.10958)
 | [code](https://github.com/thu-ml/SageAttention) |
@@ -103,7 +103,7 @@ I am currently a first-year PhD student in the Department of Computer Science at
 
 ---
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation</span>  
-<span style="font-family: 'Cambria', serif;">Ji Sun*, <strong><u>Jintao Zhang*</u></strong>, Zhaoyan Sun, Nan Tang, Guoliang Li</span>  
+<span style="font-family: 'Cambria', serif;">Ji Sun\*, <strong><u>Jintao Zhang\*</u></strong>, Zhaoyan Sun, Nan Tang, Guoliang Li</span>  
 <span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">VLDB 2022</span> <span style="font-size:14px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://vldb.org/pvldb/vol15/p85-li.pdf)
 | [code](https://github.com/jt-zhang/CardinalityEstimationTestbed) |
