@@ -48,17 +48,14 @@ I am currently a first-year PhD student in the Department of Computer Science at
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">A Survey of Efficient Attention Methods:
 Hardware-efficient, Sparse, Compact, and Linear Attention</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Rundong Su, Chunyu Liu, Jia Wei, Ziteng Wang, 
-Pengle Zhang, Haoxu Wang, Huiqiang Jiang, Haofeng Huang, 
-Chendong Xiang, Haocheng Xi, Shuo Yang, Xingyang Li, Yuezhou Hu, 
-Tianyu Fu, Tianchen Zhao, Yicheng Zhang, Youhe Jiang, Chang Chen, 
-Kai Jiang, Huayu Chen, Min Zhao, Xiaoming Xu, Jun Zhu, Jianfei Chen</span>   
+Haoxu Wang, Pengle Zhang, et al.</span>   
 | [paper](https://attention-survey.github.io/)
 | [code](https://github.com/attention-survey/Efficient_Attention_Survey) |
 
 ---
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>\*, Jia Wei\*, Pengle Zhang, Xiaoming Xu, Haofeng Huang, Haoxu Wang, Kai Jiang, Jun Zhu, Jianfei Chen</span>  
-<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">NeurIPS 2025</span> <span style="font-size:14px;">(CCF-A, Research track, Full paper)</span>  
+<span style="color:green; font-style:italic; font-size:16px; font-weight:bold;">NeurIPS 2025</span> <span style="color:#8B0000; font-size:16px;">[spotlight]</span> <span style="font-size:14px;">(CCF-A, Research track, Full paper)</span>  
 | [paper](https://arxiv.org/abs/2505.11594)
 | [code](https://github.com/thu-ml/SageAttention) |
 
