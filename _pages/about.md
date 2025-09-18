@@ -47,8 +47,7 @@ I am currently a first-year PhD student in the Department of Computer Science at
 
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">A Survey of Efficient Attention Methods:
 Hardware-efficient, Sparse, Compact, and Linear Attention</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Rundong Su, Chunyu Liu, Jia Wei, Ziteng Wang, 
-Haoxu Wang, Pengle Zhang, et al.</span>   
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Rundong Su, Chunyu Liu, Jia Wei, Ziteng Wang, Haoxu Wang, Pengle Zhang, et al.</span>   
 | [paper](https://attention-survey.github.io/)
 | [code](https://github.com/attention-survey/Efficient_Attention_Survey) |
 

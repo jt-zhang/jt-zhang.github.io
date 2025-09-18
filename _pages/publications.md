@@ -20,11 +20,7 @@ author_profile: true
 ---
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">A Survey of Efficient Attention Methods:
 Hardware-efficient, Sparse, Compact, and Linear Attention</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Rundong Su, Chunyu Liu, Jia Wei, Ziteng Wang, 
-Pengle Zhang, Haoxu Wang, Huiqiang Jiang, Haofeng Huang, 
-Chendong Xiang, Haocheng Xi, Shuo Yang, Xingyang Li, Yuezhou Hu, 
-Tianyu Fu, Tianchen Zhao, Yicheng Zhang, Youhe Jiang, Chang Chen, 
-Kai Jiang, Huayu Chen, Min Zhao, Xiaoming Xu, Jun Zhu, Jianfei Chen</span>   
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Rundong Su, Chunyu Liu, Jia Wei, Ziteng Wang, Haoxu Wang, Pengle Zhang, et al.</span>   
 | [paper](https://attention-survey.github.io/)
 | [code](https://github.com/attention-survey/Efficient_Attention_Survey) |
 
