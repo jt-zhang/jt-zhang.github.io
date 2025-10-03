@@ -45,6 +45,13 @@ I am currently a first-year PhD student in the Department of Computer Science at
 
 ## Selected Publications
 
+<span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Haoxu Wang, Kai Jiang, Shuo Yang, Kaiwen Zheng, Haocheng Xi, Ziteng Wang, Hongzhou Zhu, Min Zhao, Ion Stoica, Joseph E. Gonzalez, Jun Zhu, Jianfei Chen</span>  
+<span style="color:green; font-style:italic; font-size:15px; font-weight;">Arxiv 2025</span>  
+| [paper](https://www.arxiv.org/pdf/2509.24006)
+| [code](https://github.com/thu-ml/SLA) |
+
+---
 <span style="font-family: 'Helvetica', serif; font-weight: bold;">A Survey of Efficient Attention Methods:
 Hardware-efficient, Sparse, Compact, and Linear Attention</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Rundong Su, Chunyu Liu, Jia Wei, Ziteng Wang, Haoxu Wang, Pengle Zhang, et al.</span>   
