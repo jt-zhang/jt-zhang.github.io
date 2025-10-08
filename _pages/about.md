@@ -37,10 +37,11 @@ I am currently a first-year PhD student in the Department of Computer Science at
 - Sep 2021 -   Now    : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li. -->
 
 ## Research Interests
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">My research focuses on <strong>(1)</strong> <u>Efficient Machine Learning System</u>, specializing in accelerating model training and inference; <strong>(2)</strong> <u>Data Management</u>, specializing in query optimization and high-quality data acquisition.</span>
- <!-- Target models include large language models (LLMs), vision-language models (VLMs), and image / video generation models. -->
-<!-- - AI4DB: Database for Artificial Intelligence. -->
-<!-- - DB4AI: Artificial intelligence for Database. -->
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;"> 
+<strong>(1)</strong> <u>Efficient Machine Learning System</u>, specializing in accelerating model training and inference; </span>
+
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;"> 
+<strong>(2)</strong> <u>Data Management</u>, specializing in query optimization and high-quality data acquisition.</span>
 
 
 ## Selected Publications
@@ -164,13 +165,15 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">May. 2023: Siebel Scholars Scholarship</span>    <i>(Tsinghua's highest master's award)</i>  
+<span style="font-family: 'Cambria', serif;">Oct. 2025: National Graduate Scholarship</span>    
 
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Dec. 2020: President's Scholarship of Xidian University</span>    <i>(Top 0.02%)</i>  
+<span style="font-family: 'Cambria', serif;">May. 2023: Siebel Scholars Scholarship</span>    <i>(Tsinghua's highest master's award)</i>  
 
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Dec. 2020: National Scholarship</span>    
+<span style="font-family: 'Cambria', serif;">Dec. 2020: President's Scholarship of Xidian University</span>    <i>(Top 0.02%)</i>  
 
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Dec. 2019: National Scholarship</span>   
+<span style="font-family: 'Cambria', serif;">Dec. 2020: National Undergraduate Scholarship</span>    
+
+<span style="font-family: 'Cambria', serif;">Dec. 2019: National Undergraduate Scholarship</span>   
 <!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest -->
 <!-- - Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling -->
 
