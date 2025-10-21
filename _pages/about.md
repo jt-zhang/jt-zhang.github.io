@@ -21,9 +21,21 @@ redirect_from:
 **Undergraduate:** Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University,<span style="color: white;">........</span>Xian, China -->
 
 ## About Me
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
-I am currently a first-year PhD student in the Department of Computer Science at Tsinghua University. Feel free to call me Qifan Zhang (张棋番), my preferred nickname.</span>
-<!-- , with my main research focus on efficient training and inference of large models -->
+<p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
+  I am a five-year Ph.D. student in the Department of Computer Science at <strong>Tsinghua University</strong>. 
+  Feel free to call me Qifan Zhang (张棋番), my preferred nickname.
+</p>
+
+<p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
+  Currently, I am a visiting scholar at <strong>UC Berkeley</strong>, working with 
+  <a href="https://people.eecs.berkeley.edu/~jegonzal/" target="_blank" rel="noopener noreferrer">
+    Joseph E. Gonzalez
+  </a>
+  in the 
+  <a href="https://sky.cs.berkeley.edu/" target="_blank" rel="noopener noreferrer">
+    Sky Computing Lab
+  </a>.
+</p>
 
 
 ## Advisors
@@ -165,7 +177,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
-<span style="font-family: 'Cambria', serif;">Oct. 2025: National Graduate Scholarship</span>    
+<span style="font-family: 'Cambria', serif;">Oct. 2025: National Graduate Scholarship at Tsinghua University</span>    
 
 <span style="font-family: 'Cambria', serif;">May. 2023: Siebel Scholars Scholarship</span>    <i>(Tsinghua's highest master's award)</i>  
 
