@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing"
+locale                   : "Beijing / California"
 title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Jintao Zhang (张金涛)"
@@ -83,7 +83,7 @@ author:
   name             : "Jintao Zhang (张金涛)"
   avatar           : "profile.jpeg"
   bio              : "A Ph.D. student at Tsinghua University."
-  location         : "Beijing"
+  location         : "Beijing / California"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=J3NTnmEAAAAJ&hl=zh-CN"
