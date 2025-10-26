@@ -91,3 +91,9 @@ span[style*="border-radius: 15px"][style*="display: inline-block"] {
   position: relative;       // fine-tune to counter baseline variance across fonts
   top: -1px;                // nudge up slightly for optical alignment
 }
+
+// Ensure all "paper" text links (immediately after the PDF icon) are blue across pages
+i.fa-file-pdf + a,
+i.fa-file-pdf + a:visited {
+  color: #2a7ae2;
+}
