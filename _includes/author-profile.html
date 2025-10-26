@@ -106,6 +106,12 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+      {% if author.zhihu %}
+        <li><a href="{{ author.zhihu }}"> <i class="fa-fw fa-solid fa-blog" aria-hidden="true"></i> ZhiHu</a></li>
+      {% endif %}
+      {% if author.wechat_qr %}
+        <li><a href="javascript:void(0);" onclick="showWeChatQR()"><i class="fab fa-fw fa-weixin"></i> WeChat</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
