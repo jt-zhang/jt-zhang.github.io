@@ -82,3 +82,12 @@
         content: "⭐";
     }
 }
+
+// Align inline "pill" tags (rendered via inline <span style="...border-radius:15px; display:inline-block;...">)
+// with the following paper titles. We can't rely on classes, so target by style hints.
+span[style*="border-radius: 15px"][style*="display: inline-block"] {
+  vertical-align: middle;   // align center with adjacent text
+  line-height: 1;           // avoid extra line-height pushing down
+  position: relative;       // fine-tune to counter baseline variance across fonts
+  top: -1px;                // nudge up slightly for optical alignment
+}
