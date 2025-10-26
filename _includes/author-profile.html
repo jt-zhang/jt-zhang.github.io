@@ -108,11 +108,16 @@
       {% endif %}
       {% if author.zhihu %}
         <li><a href="{{ author.zhihu }}" target="_blank" rel="noopener">
-          <i class="fa fa-fw fa-globe" aria-hidden="true"></i> ZhiHu
+          <i class="fas fa-fw fa-feather" aria-hidden="true"></i> ZhiHu
         </a></li>
       {% endif %}
       {% if author.wechat_qr %}
         <li><a href="javascript:void(0);" onclick="showWeChatQR()"><i class="fab fa-fw fa-weixin"></i> WeChat</a></li>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <li><a href="{{ author.xiaohongshu }}" target="_blank" rel="noopener">
+          <i class="fas fa-fw fa-book-open" aria-hidden="true"></i> Xiaohongshu
+        </a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
