@@ -39,3 +39,46 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Conference badges
+.conference-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    margin-right: 8px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: white;
+    
+    &.neural{ background-color: #e35252; } // NeurIPS - Red
+    &.icml{ background-color: #4483b8; }  // ICML - Blue
+    &.iclr{ background-color: #ff6347; }   // ICLR - Tomato
+    &.icde{ background-color: #6c8e23; }  // ICDE - Green
+    &.sigmod{ background-color: #9b59b6; } // SIGMOD - Purple
+    &.tkde{ background-color: #f39c12; }  // TKDE - Orange
+    &.vldb{ background-color: #3498db; }   // VLDB - Light Blue
+    &.arxiv{ background-color: #27ae60; }  // Arxiv - Green
+    &.icmlw{ background-color: #95a5a6; } // ICML Workshop - Gray
+}
+
+// Links with icons
+.paper-links a {
+    margin-right: 10px;
+    
+    &:before {
+        content: "";
+        display: inline-block;
+        width: 18px;
+        height: 18px;
+        margin-right: 4px;
+        vertical-align: middle;
+    }
+    
+    &.paper-link:before {
+        content: "📄";
+    }
+    
+    &.code-link:before {
+        content: "⭐";
+    }
+}
