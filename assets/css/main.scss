@@ -87,11 +87,12 @@
 // with the following paper titles. We can't rely on classes, so target by style hints.
 span[style*="border-radius: 15px"][style*="display: inline-block"] {
   vertical-align: middle;      // align center with adjacent text
-  line-height: 1.2;            // restore comfortable height
+  line-height: 1.25;           // a bit taller
   position: relative;          // fine-tune to counter baseline variance across fonts
   top: -1px;                   // nudge up slightly for optical alignment
   padding-top: 2px !important; // ensure visual height regardless of inline padding
   padding-bottom: 2px !important;
+  font-size: 15px !important;  // bump pill font size one step
 }
 
 // Ensure all "paper" text links (immediately after the PDF icon) are blue across pages
