@@ -109,7 +109,7 @@ i.fa-github + a {
 }
 i.fa-github + a img {
     display: inline-block;
-    transform: scale(1.25);
+    transform: translateY(-1px) scale(1.25);
     transform-origin: left center;
     vertical-align: middle;
 }
