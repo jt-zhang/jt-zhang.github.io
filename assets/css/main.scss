@@ -100,3 +100,11 @@ i.fa-file-pdf + a,
 i.fa-file-pdf + a:visited {
   color: #2a7ae2;
 }
+
+/* Enlarge GitHub stars badge by 25% and keep vertically centered */
+i.fa-github + a img {
+    display: inline-block;
+    transform: scale(1.25);
+    transform-origin: left center;
+    vertical-align: middle;
+}
