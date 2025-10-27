@@ -102,6 +102,11 @@ i.fa-file-pdf + a:visited {
 }
 
 /* Enlarge GitHub stars badge by 25% and keep vertically centered */
+i.fa-github + a {
+    display: inline-block;
+    padding-right: 4ch;  /* reserve space so the trailing | won't be overlapped */
+    vertical-align: middle;
+}
 i.fa-github + a img {
     display: inline-block;
     transform: scale(1.25);
