@@ -139,11 +139,13 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
+<span style="font-family: 'Cambria', serif;">Nov. 2025: ByteDance Scholarship</span>    <i>(less than 20 globally/year)</i>   
+
 <span style="font-family: 'Cambria', serif;">Oct. 2025: National Graduate Scholarship at Tsinghua University</span>    
 
-<span style="font-family: 'Cambria', serif;">May. 2023: Siebel Scholars Scholarship</span>    <i>(Tsinghua's highest master's award)</i>  
+<span style="font-family: 'Cambria', serif;">May. 2023: Siebel Scholars Scholarship</span>    <i>(less than 100 globally/year)</i>  
 
-<span style="font-family: 'Cambria', serif;">Dec. 2020: President's Scholarship of Xidian University</span>    <i>(Top 0.02%)</i>  
+<span style="font-family: 'Cambria', serif;">Dec. 2020: President's Scholarship of Xidian University</span>    <i>(The highest Award in Xidian)</i>  
 
 <span style="font-family: 'Cambria', serif;">Dec. 2020: National Undergraduate Scholarship</span>    
 
