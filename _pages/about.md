@@ -20,6 +20,9 @@ redirect_from:
   Currently, I am a visiting scholar at <strong>UC Berkeley</strong>, working with 
   <a href="https://people.eecs.berkeley.edu/~jegonzal/" target="_blank" rel="noopener noreferrer">
     Joseph E. Gonzalez
+  </a> and 
+    <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank" rel="noopener noreferrer">
+    Ion Stoica
   </a>
   in the 
   <a href="https://sky.cs.berkeley.edu/" target="_blank" rel="noopener noreferrer">
