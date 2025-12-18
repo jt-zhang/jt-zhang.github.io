@@ -17,7 +17,7 @@ redirect_from:
 </p>
 
 <p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
-  Currently, I am a visiting scholar at </a> 
+  Currently, I am a visiting scholar at
   <a href="https://sky.cs.berkeley.edu/" target="_blank" rel="noopener noreferrer">Sky Computing Lab</a>, <strong>UC Berkeley</strong>, advised by Prof. 
   <a href="https://people.eecs.berkeley.edu/~jegonzal/" target="_blank" rel="noopener noreferrer">Joseph E. Gonzalez</a>, and also work closely with 
   <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank" rel="noopener noreferrer">Ion Stoica</a>.
