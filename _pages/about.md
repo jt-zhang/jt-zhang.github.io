@@ -39,7 +39,7 @@ redirect_from:
 
 ## Selected Publications
 
-**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">TurboDiffusion: Accelerating Video Diffusion Models by 100--205 Times</span>  
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">TurboDiffusion: Accelerating Video Diffusion Models by 100--200 Times</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>\*, Kaiwen Zheng\*, Kai Jiang\*, Haoxu Wang\*, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://jt-zhang.github.io/files/TurboDiffusion_Technical_Report.pdf">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/TurboDiffusion"><img src="https://img.shields.io/github/stars/thu-ml/TurboDiffusion.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
