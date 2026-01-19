@@ -146,7 +146,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 
 <span style="font-family: 'Cambria', serif;">Oct. 2025: National Graduate Scholarship at Tsinghua University</span>    
 
-<span style="font-family: 'Cambria', serif;">May. 2023: Siebel Scholars Scholarship</span>    <i>(less than 100 globally/year)</i>  
+<span style="font-family: 'Cambria', serif;">May. 2023: Siebel Scholars Scholarship</span>    <i>(less than 90 globally/year)</i>  
 
 <span style="font-family: 'Cambria', serif;">Dec. 2020: President's Scholarship of Xidian University</span>    <i>(The highest Award in Xidian)</i>  
 
