@@ -140,6 +140,8 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
+<span style="font-family: 'Cambria', serif;">Jan. 2026: Tencent Project Up Scholarship</span>    <i>(less than 15 globally/year)</i>   
+
 <span style="font-family: 'Cambria', serif;">Nov. 2025: ByteDance Scholarship</span>    <i>(less than 20 globally/year)</i>   
 
 <span style="font-family: 'Cambria', serif;">Oct. 2025: National Graduate Scholarship at Tsinghua University</span>    
