@@ -140,15 +140,16 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
-<span style="font-family: 'Cambria', serif;">Jan. 2026: Tencent Project Up Scholarship <i>(less than 15 globally/year)</i> (腾讯青云奖学金，全国15人)</span>       
 
-<span style="font-family: 'Cambria', serif;">Nov. 2025: ByteDance Scholarship <i>(less than 20 globally/year)</i>  (字节跳动奖学金，全国20人)</span>     
+<span style="font-family: 'Cambria', serif;">Jan. 2026: <a href="https://join.qq.com/scholarship.html" target="_blank" rel="noopener noreferrer"><strong>Tencent Project Up Scholarship</strong></a> <i>(15 globally/year)</i> (腾讯青云奖学金，全国15人)</span>       
+
+<span style="font-family: 'Cambria', serif;">Nov. 2025: <a href="https://scholarship.bytedance.com/en/winner/2025" target="_blank" rel="noopener noreferrer"><strong>ByteDance Scholarship</strong></a> <i>(20 globally/year)</i>  (字节跳动奖学金，全国20人)</span>     
+
+<span style="font-family: 'Cambria', serif;">May. 2023: <a href="https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2024/" target="_blank" rel="noopener noreferrer"><strong>Siebel Scholars Scholarship</strong></a> <i>(80 globally/year)</i> (西贝尔学者荣誉，全球80人)</span>     
 
 <span style="font-family: 'Cambria', serif;">Oct. 2025: National Graduate Scholarship at Tsinghua University</span>    
 
-<span style="font-family: 'Cambria', serif;">May. 2023: Siebel Scholars Scholarship <i>(less than 90 globally/year)</i> (西贝尔学者荣誉，全球80人)</span>     
-
-<span style="font-family: 'Cambria', serif;">Dec. 2020: President's Scholarship of Xidian University</span>    <i>(The highest Award in Xidian)</i>  
+<span style="font-family: 'Cambria', serif;">Dec. 2020: President's Scholarship of Xidian University <i>(The highest Award in Xidian)</i></span>      
 
 <span style="font-family: 'Cambria', serif;">Dec. 2020: National Undergraduate Scholarship</span>    
 
