@@ -44,17 +44,19 @@ redirect_from:
 | <i class="fa fa-file-pdf"></i> <a href="https://jt-zhang.github.io/files/TurboDiffusion_Technical_Report.pdf">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/TurboDiffusion"><img src="https://img.shields.io/github/stars/thu-ml/TurboDiffusion.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
-**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Haoxu Wang, Kai Jiang, Shuo Yang, Kaiwen Zheng, Haocheng Xi, Ziteng Wang, Hongzhou Zhu, Min Zhao, Ion Stoica, Joseph E. Gonzalez, Jun Zhu, Jianfei Chen</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://www.arxiv.org/pdf/2509.24006">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SLA"><img src="https://img.shields.io/github/stars/thu-ml/SLA.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
-
 ---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">A Survey of Efficient Attention Methods:
 Hardware-efficient, Sparse, Compact, and Linear Attention</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Rundong Su, Chunyu Liu, Jia Wei, Ziteng Wang, Haoxu Wang, Pengle Zhang, et al.</span>   
 | <i class="fa fa-file-pdf"></i> <a href="https://attention-survey.github.io/">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/attention-survey/Efficient_Attention_Survey"><img src="https://img.shields.io/github/stars/attention-survey/Efficient_Attention_Survey.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+
+---
+**<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Haoxu Wang, Kai Jiang, Shuo Yang, Kaiwen Zheng, Haocheng Xi, Ziteng Wang, Hongzhou Zhu, Min Zhao, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu</span>  
+2026, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://www.arxiv.org/pdf/2509.24006">paper</a>
+| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SLA"><img src="https://img.shields.io/github/stars/thu-ml/SLA.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
 **<span style="background-color: #2E8B57; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">NeurIPS</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training</span>  
