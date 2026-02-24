@@ -71,7 +71,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen</span>  
 2025, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2502.18137">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SpargeAttn"><img src="https://img.shields.io/github/stars/thu-ml/SpargeAttn.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SpargeAttn"><img src="https://img.shields.io/github/stars/thu-ml/SpargeAttn.svg?v=2" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
 **<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICML</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization</span>  
@@ -116,22 +116,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <span style="font-family: 'Cambria', serif;">Ji Sun\*, <strong><u>Jintao Zhang*</u></strong>(equal contribution), Zhaoyan Sun, Nan Tang, Guoliang Li</span>  
 2022, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://vldb.org/pvldb/vol15/p85-li.pdf">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/jt-zhang/CardinalityEstimationTestbed"><img src="https://img.shields.io/github/stars/jt-zhang/CardinalityEstimationTestbed.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
-
-
----
-**<span style="background-color: #2E8B57; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">NeurIPS</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation</span>  
-<span style="font-family: 'Cambria', serif;">Shuo Yang, Haocheng Xi, Yilong Zhao, Muyang Li, <strong><u>Jintao Zhang</u></strong>, Han Cai, Yujun Lin, Xiuyu Li, Chenfeng Xu, Kelly Peng, Jianfei Chen, Song Han, Kurt Keutzer, Ion Stoica</span>  
-2025, <span style="color:#8B0000; font-size:14px;"> **[spotlight paper]**</span>, <span style="font-size:15px;">CCF-A, Research track, Full paper</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2505.18875">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/svg-project/Sparse-VideoGen"><img src="https://img.shields.io/github/stars/svg-project/Sparse-VideoGen.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
-
----
-**<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICML</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity</span>  
-<span style="font-family: 'Cambria', serif;">Haocheng Xi, Shuo Yang, Yilong Zhao, Chenfeng Xu, Muyang Li, Xiuyu Li, Yujun Lin, Han Cai, <strong><u>Jintao Zhang</u></strong>, Dacheng Li, Jianfei Chen, Ion Stoica, Kurt Keutzer, Song Han</span>  
-2025, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2502.01776">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/svg-project/Sparse-VideoGen"><img src="https://img.shields.io/github/stars/svg-project/Sparse-VideoGen.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+| <i class="fa fa-github"></i> <a href="https://github.com/jt-zhang/CardinalityEstimationTestbed"><img src="https://img.shields.io/github/stars/jt-zhang/CardinalityEstimationTestbed.svg?v=2" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
 

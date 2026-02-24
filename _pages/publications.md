@@ -22,6 +22,11 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 | <i class="fa fa-github"></i> <a href="https://github.com/attention-survey/Efficient_Attention_Survey"><img src="https://img.shields.io/github/stars/attention-survey/Efficient_Attention_Survey.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA2: Sparse-Linear Attention with Learnable Routing and QAT</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Haoxu Wang, Kai Jiang, Kaiwen Zheng, Youhe Jiang, Ion Stoica, Jianfei Chen, Jun Zhu, Joseph E. Gonzalez</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2602.12675">paper</a> |
+
+---
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Haoxu Wang, Kai Jiang, Shuo Yang, Kaiwen Zheng, Haocheng Xi, Ziteng Wang, Hongzhou Zhu, Min Zhao, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu</span>  
 2026, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>  
@@ -47,7 +52,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen</span>  
 2025, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2502.18137">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SpargeAttn"><img src="https://img.shields.io/github/stars/thu-ml/SpargeAttn.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SpargeAttn"><img src="https://img.shields.io/github/stars/thu-ml/SpargeAttn.svg?v=2" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
 **<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICML</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization</span>  
@@ -92,7 +97,24 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <span style="font-family: 'Cambria', serif;">Ji Sun*, <strong><u>Jintao Zhang*</u></strong>, Zhaoyan Sun, Nan Tang, Guoliang Li</span>  
 2022, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://vldb.org/pvldb/vol15/p85-li.pdf">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/jt-zhang/CardinalityEstimationTestbed"><img src="https://img.shields.io/github/stars/jt-zhang/cardinalityestimationtestbed.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+| <i class="fa fa-github"></i> <a href="https://github.com/jt-zhang/CardinalityEstimationTestbed"><img src="https://img.shields.io/github/stars/jt-zhang/cardinalityestimationtestbed.svg?v=2" alt="GitHub stars" style="vertical-align: middle;"></a> |
+
+
+---
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Geometry-Aware Rotary Position Embedding for Consistent Video World Model</span>  
+<span style="font-family: 'Cambria', serif;">Chendong Xiang*, Jiajun Liu*, <strong><u>Jintao Zhang*</u></strong>, Xiao Yang, Zhengwei Fang, Shizun Wang, Zijun Wang, Yingtian Zou, Hang Su, Jun Zhu</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2602.07854">paper</a> |
+
+---
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Residual Context Diffusion Language Models</span>  
+<span style="font-family: 'Cambria', serif;">Yuezhou Hu, Harman Singh, Monishwaran Maheswaran, Haocheng Xi, Coleman Hooper, <strong><u>Jintao Zhang</u></strong>, Aditya Tomar, Michael W. Mahoney, Sewon Min, Mehrdad Farajtabar, Kurt Keutzer, Amir Gholami, Chenfeng Xu</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2601.22954">paper</a> |
+
+---
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization</span>  
+<span style="font-family: 'Cambria', serif;">Haocheng Xi, Shuo Yang, Yilong Zhao, Muyang Li, Han Cai, Xingyang Li, Yujun Lin, Zhuoyang Zhang, <strong><u>Jintao Zhang</u></strong>, Xiuyu Li, Zhiying Xu, Jun Wu, Chenfeng Xu, Ion Stoica, Song Han, Kurt Keutzer</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2602.02958">paper</a> |
+
 
 ---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Accurate INT8 Training Through Dynamic Block-Level Fallback</span>  
@@ -114,6 +136,26 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 | <i class="fa fa-github"></i> <a href="https://github.com/svg-project/Sparse-VideoGen"><img src="https://img.shields.io/github/stars/svg-project/Sparse-VideoGen.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
+**<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Large scale diffusion distillation via score-regularized continuous-time consistency</span>  
+<span style="font-family: 'Cambria', serif;">Kaiwen Zheng, Yuji Wang, Qianli Ma, Huayu Chen, <strong><u>Jintao Zhang</u></strong>, Yogesh Balaji, Jianfei Chen, Ming-Yu Liu, Jun Zhu, Qinsheng Zhang</span>  
+2026, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2510.08431">paper</a>
+| <i class="fa fa-github"></i> <a href="https://github.com/NVlabs/rcm"><img src="https://img.shields.io/github/stars/NVlabs/rcm.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+
+---
+**<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Cascadia: A Cascade Serving System for Large Language Models</span>  
+<span style="font-family: 'Cambria', serif;">Youhe Jiang, Fangcheng Fu, Wanru Zhao, Stephan Rabanser, <strong><u>Jintao Zhang</u></strong>, Nicholas D. Lane, Binhang Yuan</span>  
+2026, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2506.04203">paper</a> |
+
+---
+**<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers</span>  
+<span style="font-family: 'Cambria', serif;">Min Zhao, Hongzhou Zhu, Yingze Wang, Bokai Yan, <strong><u>Jintao Zhang</u></strong>, Guande He, Ling Yang, Chongxuan Li, Jun Zhu</span>  
+2026, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2511.20123">paper</a>
+|
+
+---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Identifying Sensitive Weights via Post-quantization Integral</span>  
 <span style="font-family: 'Cambria', serif;">Yuezhou Hu, Weiyu Huang, Zichen Liang, Chang Chen, <strong><u>Jintao Zhang</u></strong>, Jun Zhu, Jianfei Chen</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2503.01901">paper</a> |
@@ -122,9 +164,3 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 **<span style="background-color: #FF6347; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">TKDE</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">HTAP Databases: A Survey</span>  
 <span style="font-family: 'Cambria', serif;">Chao Zhang, Guoliang Li, <strong><u>Jintao Zhang</u></strong>, Xinning Zhang, Jianhua Feng</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/HTAP_Databases_A_Survey.pdf">paper</a> |
-
----
-<span style="font-family: 'Helvetica', serif; font-weight: bold;">Survey of Key Techniques of HTAP Databases.</span>  
-<span style="font-family: 'Cambria', serif;">Chao Zhang, Guoliang Li, Jianhua Feng, <strong><u>Jintao Zhang</u></strong></span>  
-Journal of Software  
-| <i class="fa fa-file-pdf"></i> <a href="http://www.jos.org.cn/josen/article/pdf/6713">paper</a> |
