@@ -52,7 +52,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Chendong Xiang, Haofeng Huang, Haocheng Xi, Jia Wei, Jun Zhu, Jianfei Chen</span>  
 2025, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2502.18137">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SpargeAttn"><img src="https://img.shields.io/github/stars/thu-ml/SpargeAttn.svg?v=2" alt="GitHub stars" style="vertical-align: middle;"></a> |
+| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SpargeAttn"><img src="https://img.shields.io/github/stars/thu-ml/SpargeAttn.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
 **<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICML</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization</span>  
@@ -97,7 +97,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <span style="font-family: 'Cambria', serif;">Ji Sun*, <strong><u>Jintao Zhang*</u></strong>, Zhaoyan Sun, Nan Tang, Guoliang Li</span>  
 2022, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://vldb.org/pvldb/vol15/p85-li.pdf">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/jt-zhang/CardinalityEstimationTestbed"><img src="https://img.shields.io/github/stars/jt-zhang/cardinalityestimationtestbed.svg?v=2" alt="GitHub stars" style="vertical-align: middle;"></a> |
+| <i class="fa fa-github"></i> <a href="https://github.com/jt-zhang/CardinalityEstimationTestbed"><img src="https://img.shields.io/github/stars/jt-zhang/cardinalityestimationtestbed.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 
 ---
