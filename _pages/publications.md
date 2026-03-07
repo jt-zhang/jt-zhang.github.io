@@ -102,12 +102,12 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 
 ---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageBwd: A Trainable Low-bit Attention</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang*</u></strong>, Marco Chen*, Haoxu Wang*, Kai Jiang, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang*</u></strong>, Marco Chen\*, Haoxu Wang\*, Kai Jiang, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2603.02170">paper</a> |
 
 ---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Geometry-Aware Rotary Position Embedding for Consistent Video World Model</span>  
-<span style="font-family: 'Cambria', serif;">Chendong Xiang\*, Jiajun Liu\*, <strong><u>Jintao Zhang\*</u></strong>, Xiao Yang, Zhengwei Fang, Shizun Wang, Zijun Wang, Yingtian Zou, Hang Su, Jun Zhu</span>  
+<span style="font-family: 'Cambria', serif;">Chendong Xiang\*, Jiajun Liu\*, <strong><u>Jintao Zhang*</u></strong>, Xiao Yang, Zhengwei Fang, Shizun Wang, Zijun Wang, Yingtian Zou, Hang Su, Jun Zhu</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2602.07854">paper</a> |
 
 ---
