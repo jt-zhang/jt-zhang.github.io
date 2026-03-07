@@ -24,7 +24,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 ---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA2: Sparse-Linear Attention with Learnable Routing and QAT</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Haoxu Wang, Kai Jiang, Kaiwen Zheng, Youhe Jiang, Ion Stoica, Jianfei Chen, Jun Zhu, Joseph E. Gonzalez</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2602.12675">paper</a> |
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2602.12675">paper</a> |
 
 ---
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention</span>  
@@ -44,7 +44,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 **<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICMLW</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention2++: A More Efficient Implementation of SageAttention2</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Xiaoming Xu, Jia Wei, Haofeng Huang, Pengle Zhang, Chendong Xiang, Jun Zhu, Jianfei Chen</span>  
 2025, <span style="font-size:14px;">workshop paper in ICML</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2505.21136">paper</a>
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2505.21136">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SageAttention"><img src="https://img.shields.io/github/stars/thu-ml/SageAttention.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
@@ -65,7 +65,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Jia Wei, Pengle Zhang, Jun Zhu, Jianfei Chen</span>  
 2025, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>   
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2410.02367">paper</a>
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2410.02367">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SageAttention"><img src="https://img.shields.io/github/stars/thu-ml/SageAttention.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
@@ -101,9 +101,14 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 
 
 ---
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageBwd: A Trainable Low-bit Attention</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang*</u></strong>, Marco Chen*, Haoxu Wang*, Kai Jiang, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2603.02170">paper</a> |
+
+---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Geometry-Aware Rotary Position Embedding for Consistent Video World Model</span>  
-<span style="font-family: 'Cambria', serif;">Chendong Xiang*, Jiajun Liu*, <strong><u>Jintao Zhang*</u></strong>, Xiao Yang, Zhengwei Fang, Shizun Wang, Zijun Wang, Yingtian Zou, Hang Su, Jun Zhu</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2602.07854">paper</a> |
+<span style="font-family: 'Cambria', serif;">Chendong Xiang\*, Jiajun Liu\*, <strong><u>Jintao Zhang\*</u></strong>, Xiao Yang, Zhengwei Fang, Shizun Wang, Zijun Wang, Yingtian Zou, Hang Su, Jun Zhu</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2602.07854">paper</a> |
 
 ---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Residual Context Diffusion Language Models</span>  
