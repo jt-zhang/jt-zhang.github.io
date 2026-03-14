@@ -30,7 +30,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 ---
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Haoxu Wang, Kai Jiang, Shuo Yang, Kaiwen Zheng, Haocheng Xi, Ziteng Wang, Hongzhou Zhu, Min Zhao, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu</span>  
-2026, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>  
+2026, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://www.arxiv.org/pdf/2509.24006">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SLA"><img src="https://img.shields.io/github/stars/thu-ml/SLA.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
@@ -65,7 +65,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 ---
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Jia Wei, Pengle Zhang, Jun Zhu, Jianfei Chen</span>  
-2025, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>   
+2025, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>   
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2410.02367">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SageAttention"><img src="https://img.shields.io/github/stars/thu-ml/SageAttention.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
@@ -144,20 +144,20 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 ---
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Large scale diffusion distillation via score-regularized continuous-time consistency</span>  
 <span style="font-family: 'Cambria', serif;">Kaiwen Zheng, Yuji Wang, Qianli Ma, Huayu Chen, <strong><u>Jintao Zhang</u></strong>, Yogesh Balaji, Jianfei Chen, Ming-Yu Liu, Jun Zhu, Qinsheng Zhang</span>  
-2026, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>  
+2026, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2510.08431">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/NVlabs/rcm"><img src="https://img.shields.io/github/stars/NVlabs/rcm.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Cascadia: A Cascade Serving System for Large Language Models</span>  
 <span style="font-family: 'Cambria', serif;">Youhe Jiang, Fangcheng Fu, Wanru Zhao, Stephan Rabanser, <strong><u>Jintao Zhang</u></strong>, Nicholas D. Lane, Binhang Yuan</span>  
-2026, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>  
+2026, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2506.04203">paper</a> |
 
 ---
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers</span>  
 <span style="font-family: 'Cambria', serif;">Min Zhao, Hongzhou Zhu, Yingze Wang, Bokai Yan, <strong><u>Jintao Zhang</u></strong>, Guande He, Ling Yang, Chongxuan Li, Jun Zhu</span>  
-2026, <span style="font-size:14px;">TH-CPL-A, Research track, Full paper</span>  
+2026, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2511.20123">paper</a>
 |
 
