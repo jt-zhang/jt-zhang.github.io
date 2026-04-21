@@ -17,15 +17,21 @@ redirect_from:
 </p>
 
 <p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
-  Currently, I am a visiting scholar at
+  In the past, I was a visiting scholar at
   <a href="https://sky.cs.berkeley.edu/" target="_blank" rel="noopener noreferrer">Sky Computing Lab</a>, <strong>UC Berkeley</strong>, advised by Prof. 
-  <a href="https://people.eecs.berkeley.edu/~jegonzal/" target="_blank" rel="noopener noreferrer">Joseph E. Gonzalez</a>, and also work closely with 
+  <a href="https://people.eecs.berkeley.edu/~jegonzal/" target="_blank" rel="noopener noreferrer">Joseph E. Gonzalez</a>, and also worked closely with 
   <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank" rel="noopener noreferrer">Ion Stoica</a>.
+</p>
+
+<p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
+  Currently, I am leading the Streaming Video Generation and Inference Infrastructure at
+  <a href="https://www.shengshu-ai.com/" target="_blank" rel="noopener noreferrer">Shengshu Technology</a> (生数科技).
 </p>
 
 
 ## Advisors
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Ph.D. Advisors:</span><span style="color: white;">.</span><span style="color: white;">..</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Ph.D. Advisors:</span><span style="color: white;">.</span><span style="color: white;">.</span>Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html)  
+<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Visiting in UCB:</span> Prof. [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) and Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/)  
 <span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">Master Advisor:</span> Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html)
 
 
