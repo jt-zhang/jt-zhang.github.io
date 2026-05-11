@@ -133,6 +133,7 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
+<span style="font-family: 'Cambria', serif;">Apr. 2026: <a href="https://join.qq.com/scholarship.html" target="_blank" rel="noopener noreferrer"><strong>Zhang Bo Artificial Intelligence Scholarship</strong></a> <i>(15 globally/year)</i> (张拨人工智能奖学金，2人每年)</span>  
 
 <span style="font-family: 'Cambria', serif;">Jan. 2026: <a href="https://join.qq.com/scholarship.html" target="_blank" rel="noopener noreferrer"><strong>Tencent Project Up Scholarship</strong></a> <i>(15 globally/year)</i> (腾讯青云奖学金，全国15人)</span>       
 
