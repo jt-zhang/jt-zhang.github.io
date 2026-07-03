@@ -15,6 +15,12 @@ author_profile: true
 
 
 ---
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Vidu S1: A Real-Time Interactive Video Generation Model</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Kai Jiang, Jintao Chen, Xu Wang, Yang Luo, Yuji Wang, Dechuang Chen, Jungang Li, Chengyang Ye, Tianyu Chen, Hongzhou Zhu, Min Zhao, Yuxuan Jiang, Zhengkun Huang, Chendong Xiang, Kaiwen Zheng, Haoxu Wang, Xiaohang Wang, Qi Jia, Xin Chen, Yimin Chen, Youhe Jiang, Fangcheng Fu, Zhijie Deng, Fan Bao, Jianfei Chen, Jun Zhu</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://jt-zhang.github.io/files/Vidu_S1.pdf">paper</a> |
+
+
+---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">A Survey of Efficient Attention Methods:
 Hardware-efficient, Sparse, Compact, and Linear Attention</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Rundong Su, Chunyu Liu, Jia Wei, Ziteng Wang, Haoxu Wang, Pengle Zhang, et al.</span>   
