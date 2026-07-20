@@ -47,7 +47,8 @@ redirect_from:
 
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Vidu S1: A Real-Time Interactive Video Generation Model</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Kai Jiang, Jintao Chen, Xu Wang, Yang Luo, Yuji Wang, Dechuang Chen, Jungang Li, Chengyang Ye, Tianyu Chen, Hongzhou Zhu, Min Zhao, Yuxuan Jiang, Zhengkun Huang, Chendong Xiang, Kaiwen Zheng, Haoxu Wang, Xiaohang Wang, Qi Jia, Xin Chen, Yimin Chen, Youhe Jiang, Fangcheng Fu, Zhijie Deng, Fan Bao, Jianfei Chen, Jun Zhu</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://jt-zhang.github.io/files/Vidu_S1.pdf">paper</a> |
+| <i class="fa fa-file-pdf"></i> <a href="https://jt-zhang.github.io/files/Vidu_S1.pdf">paper</a>
+| <i class="fa fa-github"></i> <a href="https://github.com/shengshu-ai/Vidu-S1"><img src="https://img.shields.io/github/stars/shengshu-ai/Vidu-S1.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">TurboDiffusion: Accelerating Video Diffusion Models by 100--200 Times</span>  
