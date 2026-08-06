@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 <p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
-  I am a five-year Ph.D. student in the Department of Computer Science at <strong>Tsinghua University</strong>. 
+  I am a five-year Ph.D. student in the Department of Computer Science at <strong>Tsinghua University</strong>, advised by Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). 
   Feel free to call me Qifan Zhang (张棋番), my preferred nickname.
 </p>
 
