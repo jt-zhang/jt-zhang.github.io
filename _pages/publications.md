@@ -10,7 +10,7 @@ author_profile: true
 ---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Kai Jiang, Jintao Chen, Xu Wang, Deyuan Liu, Jungang Li, Dechuang Chen, Ming Lin, Jingjiang Zhou, Haopeng Jin, Qi Jia, Xiaohang Wang, Yaole Wang, Zhanqiang Zhang, Ran Li, Zhengkun Huang, Shuyue Xiong, Yuji Wang, Zikun Dai, Hui He, Yang Luo, Mang Ning, Weiqi Feng, Chengyang Ye, Xinyue Lin, Min Zhao, Hongzhou Zhu, Hengkai Tan, Zeyuan Wang, Chendong Xiang, Kaiwen Zheng, Zhijie Deng, Fan Bao, Jianfei Chen, Jun Zhu</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2609.11638">paper</a>
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2609.11638">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/shengshu-ai/Vidu-S1"><img src="https://img.shields.io/github/stars/shengshu-ai/Vidu-S1.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
