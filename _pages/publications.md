@@ -33,10 +33,18 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 | <i class="fa fa-github"></i> <a href="https://github.com/attention-survey/Efficient_Attention_Survey"><img src="https://img.shields.io/github/stars/attention-survey/Efficient_Attention_Survey.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
-**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA2: Sparse-Linear Attention with Learnable Routing and QAT</span>  
+**<span style="background-color: #2E8B57; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">NeurIPS</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA2: Sparse-Linear Attention with Learnable Routing and QAT</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Haoxu Wang, Kai Jiang, Kaiwen Zheng, Youhe Jiang, Ion Stoica, Jianfei Chen, Jun Zhu, Joseph E. Gonzalez</span>  
+2026, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2602.12675">paper</a>
 | <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SLA"><img src="https://img.shields.io/github/stars/thu-ml/SLA.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+
+---
+**<span style="background-color: #2E8B57; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">NeurIPS</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>, Kai Jiang, Chendong Xiang, Weiqi Feng, Yuezhou Hu, Haocheng Xi, Jianfei Chen, Jun Zhu</span>  
+2026, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2602.13515">paper</a>
+| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/SpargeAttn"><img src="https://img.shields.io/github/stars/thu-ml/SpargeAttn.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICLR</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention</span>  
