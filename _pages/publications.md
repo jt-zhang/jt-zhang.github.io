@@ -159,6 +159,13 @@ Hardware-efficient, Sparse, Compact, and Linear Attention</span>
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2503.08040">paper</a> |
 
 ---
+**<span style="background-color: #2E8B57; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">NeurIPS</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Flash-KMeans: Fast and Memory-Efficient Exact K-Means</span>  
+<span style="font-family: 'Cambria', serif;">Shuo Yang, Haocheng Xi, Yilong Zhao, Muyang Li, Xiaoze Fan, <strong><u>Jintao Zhang</u></strong>, Han Cai, Yujun Lin, Xiuyu Li, Kurt Keutzer, Song Han, Chenfeng Xu, Ion Stoica</span>  
+2026, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2603.09229">paper</a>
+| <i class="fa fa-github"></i> <a href="https://github.com/svg-project/flash-kmeans"><img src="https://img.shields.io/github/stars/svg-project/flash-kmeans.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+
+---
 **<span style="background-color: #2E8B57; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">NeurIPS</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation</span>  
 <span style="font-family: 'Cambria', serif;">Shuo Yang, Haocheng Xi, Yilong Zhao, Muyang Li, <strong><u>Jintao Zhang</u></strong>, Han Cai, Yujun Lin, Xiuyu Li, Chenfeng Xu, Kelly Peng, Jianfei Chen, Song Han, Kurt Keutzer, Ion Stoica</span>  
 2025, <span style="color:#8B0000; font-size:15px;"> **[spotlight paper]**</span>, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
