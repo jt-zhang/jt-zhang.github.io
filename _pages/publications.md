@@ -20,6 +20,18 @@ author_profile: true
 | <i class="fa fa-github"></i> <a href="https://github.com/shengshu-ai/Vidu-S1"><img src="https://img.shields.io/github/stars/shengshu-ai/Vidu-S1.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation</span>  
+<span style="font-family: 'Cambria', serif;">Xiaoda Yang\*, Yuxiang Liu\*, Kaiwen Zheng, Yuan Liu, Yibo Lai, Shengpeng Ji, Kai Jiang, Jianfei Chen, Shan Yang, Sen Liang, Xiaobin Hu, Shuicheng Yan, <strong><u>Jintao Zhang#</u></strong>, Jun Zhu#, Zhou Zhao#</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2608.24674">paper</a>
+| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/TurboDiffusion/tree/main/turbot2va"><img src="https://img.shields.io/github/stars/thu-ml/TurboDiffusion.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+
+---
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">KernelBenchX: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels</span>  
+<span style="font-family: 'Cambria', serif;">Han Wang\*, <strong><u>Jintao Zhang</u></strong>\*, Kai Jiang, Haoxu Wang, Jianfei Chen, Jun Zhu</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2605.04956">paper</a>
+| <i class="fa fa-github"></i> <a href="https://github.com/BonnieW05/KernelBenchX"><img src="https://img.shields.io/github/stars/BonnieW05/KernelBenchX.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+
+---
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">TurboDiffusion: Accelerating Video Diffusion Models by 100--200 Times</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>\*, Kaiwen Zheng\*, Kai Jiang\*, Haoxu Wang\*, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://jt-zhang.github.io/files/TurboDiffusion_Technical_Report.pdf">paper</a>
